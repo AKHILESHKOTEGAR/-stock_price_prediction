@@ -58,5 +58,14 @@ This project aims to forecast stock prices by applying a combination of statisti
 - GARCH captured volatility patterns, useful in financial risk analysis
 
 ---
+##Future Improvements
+-Integrate real-time data for live predictions
+-Use sentiment analysis from financial news or social media
+-Deploy model using Streamlit or Flask for interactive use
 
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/stock-price-prediction.git
 
